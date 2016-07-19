@@ -1,0 +1,25 @@
+.panel-primary > .panel-heading {
+    color: #FFF;
+    background-color: #11530F !important;
+    border-color: #11530F !important;
+}
+.footer {
+bottom: 0px;
+width: 100%;
+height: auto;
+background-color: #F5F5F5;
+padding: 25px 0px 6px 0px;
+text-align: center;
+}
+
+.height_corr{
+	min-height: 480px;
+}
+#example{
+	margin-bottom: 2%;
+}
+.btn-success{
+	background-color: #1D711D!important;
+	border-color: #1D711D!important;
+}
+
